@@ -1,0 +1,79 @@
+/*Take note of the blur effect*/
+body {
+    background-image: url('../images/city4.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(8px);
+}
+
+
+/*This section is for the headings*/
+h1, h4, p {
+    text-align: center;
+    color: aliceblue;
+}
+
+
+#na {
+    color: aliceblue;
+}
+
+#fi {
+    color: aliceblue;
+}
+
+/*This section represents the form in the box*/
+div {
+    margin: 0 auto;
+    width: 380px; height: 370px;
+    padding: 20px;
+    background-image: url('../images/city4.jpg');
+    background-size: cover;
+    
+}
+
+.sign {
+    margin: 0 auto;
+    width: 380px; height: 520px;
+    padding: 20px;
+    background-image: url('../images/city4.jpg');
+    background-size: cover;
+}
+
+#sup {
+    background-color: rgb(217, 217, 235);
+    border: none;
+    margin-left: 130px;
+    padding: 10px;
+}
+
+/*This section is for the LOGIN box*/
+#sub {
+    background-color: rgb(26, 26, 201);
+    padding: 8px;
+    padding-left: 150px;
+    padding-right: 150px;
+    border: none;
+    color: white;
+}
+
+/*This section affects the boxes in the username and password*/
+#user {
+    padding: 8px;
+    padding-left: 164px;
+    filter: opacity(0.7);
+    border: none;
+    border-width: 20px;
+}
+
+#pass {
+    padding: 8px;
+    padding-left: 164px;
+    filter: opacity(0.7);
+    border: none;
+}
+
+form {
+    margin-left: 20px;
+}
+

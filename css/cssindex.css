@@ -1,0 +1,35 @@
+    body {
+    background-image: url('lights2.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: antiquewhite;
+}
+ul{
+    list-style-type: none;
+    background-color: coral;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;   
+}
+li {    
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-size: larger;
+    
+}
+li a:hover{
+    background-color: #637EF5;
+}
+#games {
+    margin-right: 70px;
+}
+form{
+   font-size: larger;
+}

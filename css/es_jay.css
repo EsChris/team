@@ -1,0 +1,14 @@
+div {
+    margin: 0px auto;
+    border: 2px solid powderblue;
+    width: 600px; height: auto;
+  /*  background-image: url("../images/berlin.jpg")*/
+}
+#uu {
+    background-color: aqua;
+}
+
+#jj {
+    background-image: url("../images/ad.gif");
+}
+

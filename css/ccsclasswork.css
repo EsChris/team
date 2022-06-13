@@ -1,0 +1,57 @@
+form{
+    margin-left: 30px;
+}
+h1 {
+    color: rgb(13, 13, 14);
+    text-align: center;
+}
+#fname{
+    border-radius: 20px ;
+    border: solid 2px chocolate;
+
+}
+/*this is a style for first name*/
+#lname {
+    border-radius: 20px ;
+    border: solid 2px chocolate;
+
+}
+#sub {
+    border-radius: 50px ;
+    padding: 5px;
+    border: none;
+    box-shadow:inset;
+    
+}
+
+#res {
+    border-radius: 50px ;
+    padding: 5px;
+    border: none;
+ 
+}
+div {
+        margin:0 auto;
+        width:600px; height: auto;
+        padding: 20px;
+        border:  none;
+        background-image: url('ad.gif');
+        /*background: transparent;*/
+        border-radius: 20px;
+        
+    }
+    
+body{
+    background-image: url('ad.gif');
+    background-size: cover;
+    backdrop-filter:blur(8px);
+    
+}
+/*This is the footer of the page 
+footer {
+    background-color: #777;
+    padding: 5px;
+    text-align: center;
+    color: white;
+  }*/
+  
